@@ -1,0 +1,25 @@
+{
+  "name": "javis-demo",
+  "version": "1.0.0",
+  "description": "This is a proyect showcasing the netlify plataform",
+  "main": "dist/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArlandMv/javi-netlify.git"
+  },
+  "keywords": [
+    "netlify"
+  ],
+  "author": "Arland Michelena Villegas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArlandMv/javi-netlify/issues"
+  },
+  "homepage": "https://github.com/ArlandMv/javi-netlify#readme",
+  "dependencies": {
+    "dotenv": "^14.3.2"
+  }
+}

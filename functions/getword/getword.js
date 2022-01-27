@@ -1,4 +1,4 @@
-const movieQuote = require("popular-movie-quotes");
+/* const movieQuote = require("popular-movie-quotes");
 
 const mq = movieQuote.getSomeRandom(1);
 console.log(mq);
@@ -19,3 +19,4 @@ exports.handler = async function (event, context) {
     return { statusCode: 500, body: err.toString() };
   }
 }
+ */

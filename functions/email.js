@@ -1,4 +1,4 @@
-require('dotenv').config()
+/* require('dotenv').config()
 const nodemailer = require('nodemailer')
 
 const { EMAIL_HOST, EMAIL_PORT, EMAIL_USER, EMAIL_PASSWORD } = process.env
@@ -46,3 +46,4 @@ exports.handler = async (event, context, cb) => {
     }
   }
 }
+ */
