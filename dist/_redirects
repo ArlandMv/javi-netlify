@@ -1,0 +1,4 @@
+/insta https://instagram.com/javi_namu?igshid=fwgn1yqig09e
+/api/* https://jsonplaceholder.typicode.com/:splat 200
+
+/getword /.netlify/functions/getword/getword.js 200
